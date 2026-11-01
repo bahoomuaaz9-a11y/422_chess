@@ -1,0 +1,6 @@
+{
+  "name": "Chess Arena - Real-Time Multiplayer Chess",
+  "description": "Play real-time multiplayer chess with friends and online opponents. Featuring matchmaking, private rooms, ELO rating, interactive board, Google sign-in, and Supabase integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
